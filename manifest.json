@@ -31,6 +31,13 @@
       "type": "image/png"
     }
   ],
-  "icons": [],
+  "icons": [
+    {
+      "src": "images/any.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
   "shortcuts": []
 }
