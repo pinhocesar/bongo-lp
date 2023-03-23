@@ -45,5 +45,13 @@
       "purpose": "any maskable"
     }
   ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/us/app/bongo-cat-musical-instruments/id1445350887",
+      "id": "1445350887"
+    }
+  ],
   "shortcuts": []
 }
